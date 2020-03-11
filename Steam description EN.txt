@@ -1,0 +1,27 @@
+Empty RimWorld Play Log
+
+[h1]Description[/h1]
+A mod that empties the play log, allowing you to safely uninstall mods that add entries to the log.
+
+Example mods that can be safely removed:
+
+Pawn Education - https://steamcommunity.com/sharedfiles/filedetails/?id=1729795429
+
+Craftsmanship - https://steamcommunity.com/sharedfiles/filedetails/?id=1472131714
+
+This mod adds a new debug menu option called 'Clear Play Log' under the category 'Mods - Misc' . This prevents exceptions from occuring when opening the 'Log' or 'Social' tabs on a pawn after a mod that inserts to the Play Log has been removed.
+
+To use:
+1. Disable the mod you want to uninstall
+2. Load your existing save (ignore warnings)
+3. Click the debug action 'Clear Play Log'
+4. Make a new save
+5. profit???
+
+Not really sure if there are other ramifications involved with clearing the Play Log, so use at your own risk.
+
+[h1]Dependencies[/h1]
+None
+
+[h1]Honourable Mentions[/h1]
+pardeike/Harmony - https://github.com/pardeike/Harmony/
